@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/uddi-exp/Java-CA/tree/master/0035-search-insert-position) |
 | [0056-merge-intervals](https://github.com/uddi-exp/Java-CA/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/uddi-exp/Java-CA/tree/master/0066-plus-one) |
+| [0189-rotate-array](https://github.com/uddi-exp/Java-CA/tree/master/0189-rotate-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -20,10 +21,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/uddi-exp/Java-CA/tree/master/0066-plus-one) |
+| [0189-rotate-array](https://github.com/uddi-exp/Java-CA/tree/master/0189-rotate-array) |
 ## Two Pointers
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/uddi-exp/Java-CA/tree/master/0125-valid-palindrome) |
+| [0189-rotate-array](https://github.com/uddi-exp/Java-CA/tree/master/0189-rotate-array) |
 ## Sorting
 |  |
 | ------- |
